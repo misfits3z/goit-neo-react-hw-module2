@@ -1,0 +1,9 @@
+.feedback{
+    display: flex;
+    flex-direction: column;
+    
+}
+.feedback p{
+    color: darkgray;
+    text-align: start;
+}
